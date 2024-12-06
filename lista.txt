@@ -2,4 +2,6 @@ pasta;
 uova;
 pane;
 acqua;
-pomodori.
+pomodori;
+carne;
+pesce;
