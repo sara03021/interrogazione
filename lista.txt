@@ -1,0 +1,4 @@
+pasta;
+uova;
+pane;
+acqua.
