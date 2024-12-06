@@ -5,3 +5,5 @@ acqua;
 pomodori;
 carne;
 pesce;
+pomodori.
+sapone
